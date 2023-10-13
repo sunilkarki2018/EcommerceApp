@@ -12,6 +12,13 @@ To start the project first clone the project from the repository and run the nod
 4. npm install
 5. npm start
 
+To login as Admin:
+Username: admin@mail.com
+Password: admin123
+To login as Customer:
+Email:john@mail.com
+Password: changeme
+
 ## Technologies
 
 - Typescript
